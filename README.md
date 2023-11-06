@@ -1,5 +1,5 @@
 <img align="center" src="assets/catto.gif" width=950px /> 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+Annyeong+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Annyeong Im Coli Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFC0CB&center=true&vCenter=true&width=940&height=50&lines=%2C+Annyeong+Im+Coli+Welcome+to+my+Profile!" align="middle" alt="Annyeong Im Coli Welcome to my Profile! animated typed out">
 
 <img align="left" src="assets/em.gif" width="270" title="Hi!" /> 
 
