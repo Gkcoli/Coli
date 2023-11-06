@@ -4,8 +4,8 @@
 <img align="left" src="assets/em.gif" width="270" title="Hi!" /> 
 
 ```
-🏫 BS Computer Science with specialization in Digital Forensics student 
-🔎 Main interests in Data Science & Cybersec
+🏫 BS Computer Science with specialization in Machine Learning student 
+🔎 Main interests in A.I and Data Analysis
 🔭 Working on my Mental Health
 🌱 Learning about Machine Learning 
 🌟 Main languages: Python, Java, php 
@@ -13,7 +13,6 @@
 💖 In a complicated relationship with loops and Eclipse IDE
 🖌️ Love reading non fictions, sports, gaming, watching movies and stargazing
 🎵 Love alternative rock, jazz, pop, classical and blues
-⚡ Love dumplings 🥟
 ☕ Interest: Dogs, Self Care, Cats, Coffee, and Coding.
 🐾 I’m looking to network and make friends here!
 🌊 Hobbies: Crochet, Anime, Gacha Games, and Books.
