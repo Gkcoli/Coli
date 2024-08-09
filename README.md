@@ -5,17 +5,17 @@
 
 ```
 🏫 BS Computer Science with specialization in Machine Learning student 
-🔎 Main interests in A.I and Data Analysis
+🔎 Main interests in A.I and Visual Representation
 🔭 Working on my Mental Health
 🌱 Learning about Machine Learning 
 🌟 Main languages: Python, Java, php 
-🚩 Interested in learning network security and web security
+🚩 Interested in learning Visual Representation and Depth Machine Learning
 💖 In a complicated relationship with loops and Eclipse IDE
 🖌️ Love reading non fictions, sports, gaming, watching movies and stargazing
 🎵 Love alternative rock, jazz, pop, classical and blues
-☕ Interest: Dogs, Self Care, Cats, Coffee, and Coding.
-🐾 I’m looking to network and make friends here!
-🌊 Hobbies: Crochet, Anime, Gacha Games, and Books.
+☕ Interest: Geeking, Self Care, Cats, Coffee, and Coding.
+🐾 Have a Link to higher-ups and make friends!
+🌊 Hobbies: Sleeping, Running, Workouts and Cooking
 ```
 
 
