@@ -34,7 +34,6 @@
     <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" title="javascript">
     <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" title="html">
     <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="css">
-    <img alt="ML" src="http://giphy.com/gifs/business-businessschool-ualberta-j2N7UGDJ9tIbQwTlHv" width="60" title="ML">
       <br> </br>
     <img src="https://skillicons.dev/icons?i=bash,git,php" title="skills actively learning logos">
   </p>
